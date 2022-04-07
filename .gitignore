@@ -36,3 +36,4 @@ java/ispyb-batch-client/src/main/java/ispyb/client/webservice/UtilsDoNotCommit.j
 .idea/
 venv
 .env
+*.log

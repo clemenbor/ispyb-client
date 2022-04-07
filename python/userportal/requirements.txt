@@ -1,0 +1,3 @@
+wheel
+requests
+git+https://github.com/clemenbor/pydesydoor.git@main#egg=pydesydoor

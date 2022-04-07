@@ -32,3 +32,7 @@ local.properties
 #credentials for webservices
 java/ispyb-WSclient-call/src/main/java/webservice/UtilsDoNotCommit.java
 java/ispyb-batch-client/src/main/java/ispyb/client/webservice/UtilsDoNotCommit.java
+
+.idea/
+venv
+.env

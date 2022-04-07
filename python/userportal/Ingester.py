@@ -82,7 +82,7 @@ if __name__ == "__main__":
 	}
 
 	if (user_yes_no_query("Are these values OK?") == False):
-		print "Exit"
+		print("Exit")
 		sys.exit()
                
         token = authenticate(url, user, password, site, proxies)
